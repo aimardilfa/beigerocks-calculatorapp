@@ -1,7 +1,7 @@
 # Beigerock's Calculator App
-#### I designed it to offer a _smooth_ and _user-friendly_ experience
+#### I designed it to offer a _smooth_ and _user-friendly_ experience for performing basic arithmetic operations. 
 
-for performing basic arithmetic operations. Whether you're doing *simple math* or trying out a few more *complex expressions*, **this calculator handles it with ease**. I aimed for a **_clean interface_** and **_efficient performance_**, making it both **functional** and **visually straightforward** for all users.
+Whether you're doing *simple math* or trying out a few more *complex expressions*, **this calculator handles it with ease**. I aimed for a **_clean interface_** and **_efficient performance_**, making it both **functional** and **visually straightforward** for all users.
 
 ---
 
