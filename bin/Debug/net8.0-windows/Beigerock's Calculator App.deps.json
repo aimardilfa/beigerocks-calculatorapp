@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Beigerock's Calculator App/1.0.0": {
+        "runtime": {
+          "Beigerock's Calculator App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Beigerock's Calculator App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

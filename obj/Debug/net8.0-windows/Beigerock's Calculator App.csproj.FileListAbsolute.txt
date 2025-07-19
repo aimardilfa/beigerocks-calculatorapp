@@ -1,0 +1,17 @@
+D:\Beigerock's Projects\Beigerock's Calculator App\bin\Debug\net8.0-windows\Beigerock's Calculator App.exe
+D:\Beigerock's Projects\Beigerock's Calculator App\bin\Debug\net8.0-windows\Beigerock's Calculator App.deps.json
+D:\Beigerock's Projects\Beigerock's Calculator App\bin\Debug\net8.0-windows\Beigerock's Calculator App.runtimeconfig.json
+D:\Beigerock's Projects\Beigerock's Calculator App\bin\Debug\net8.0-windows\Beigerock's Calculator App.dll
+D:\Beigerock's Projects\Beigerock's Calculator App\bin\Debug\net8.0-windows\Beigerock's Calculator App.pdb
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock_s_Calculator_App.calculator.resources
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock's Calculator App.csproj.GenerateResource.cache
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock's Calculator App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock's Calculator App.AssemblyInfoInputs.cache
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock's Calculator App.AssemblyInfo.cs
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock's Calculator App.csproj.CoreCompileInputs.cache
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock's Calculator App.dll
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\refint\Beigerock's Calculator App.dll
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock's Calculator App.pdb
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock's Calculator App.genruntimeconfig.cache
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\ref\Beigerock's Calculator App.dll
+D:\Beigerock's Projects\Beigerock's Calculator App\obj\Debug\net8.0-windows\Beigerock_s_Calculator_App.Properties.Resources.resources
