@@ -10,6 +10,9 @@ namespace Beigerock_s_Calculator_App
         public calculator()
         {
             InitializeComponent();
+
+            this.MaximizeBox = false;
+            this.FormBorderStyle = FormBorderStyle.FixedSingle; // OR FormBorderStyle.FixedDialog OR FormBorderStyle.Fixed3D
         }
 
         private void calculator_Load(object sender, EventArgs e)
